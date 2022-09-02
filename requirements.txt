@@ -1,2 +1,3 @@
-segno
 black
+qrcode-artistic
+segno
