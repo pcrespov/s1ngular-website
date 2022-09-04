@@ -5,7 +5,7 @@ import segno
 from segno import helpers
 
 
-def main(basedir):
+def main(basedir: Path):
     #
     # https://segno.readthedocs.io/en/latest/contact-information.html
     #
